@@ -17,5 +17,8 @@
         "path": "./themes/Dark Frost-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": "https://github.com/MatchaChoco010/vscode-dark-frost.git",
+  "license": "MIT",
+  "icon": "icon.png"
 }
