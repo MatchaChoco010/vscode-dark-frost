@@ -1,0 +1,21 @@
+{
+  "name": "dark-frost",
+  "displayName": "dark frost",
+  "description": "dark, dark frosted world...",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Frost",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Frost-color-theme.json"
+      }
+    ]
+  }
+}
