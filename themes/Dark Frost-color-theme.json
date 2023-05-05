@@ -1797,7 +1797,7 @@
       "name": "[VSCODE-CUSTOM] Markdown Quote",
       "scope": "markup.quote.markdown",
       "settings": {
-        "foreground": "#233b3d"
+        "foreground": "#67c7c7"
       }
     },
     {
@@ -1841,6 +1841,13 @@
       "scope": "markup.italic.markdown",
       "settings": {
         "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "text.html.markdown",
+      "scope": "text.html.markdown",
+      "settings": {
+        "foreground": "#e1fffde0"
       }
     }
   ],
@@ -1982,8 +1989,8 @@
     "badge.foreground": "#040507",
     "terminal.foreground": "#bdece9",
     "terminal.selectionBackground": "#bdece920",
-    "terminalCursor.background": "#bdece9",
-    "terminalCursor.foreground": "#040507",
+    "terminalCursor.background": "#040507",
+    "terminalCursor.foreground": "#bdece9",
     "terminal.border": "#040507",
     "terminal.ansiBlack": "#1f2121",
     "terminal.ansiBlue": "#1f5d94",

@@ -6,4 +6,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.0.4]
+- Improve markdown syntax highlight.
+- Improve terminal cursor color.
+
+## [0.0.3]
 - Initial release
