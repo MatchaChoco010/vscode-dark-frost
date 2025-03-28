@@ -4,7 +4,7 @@
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {
-      "foreground": "#285e5c"
+      "foreground": "#67c7c7"
     },
     "variable.constant": {
       "foreground": "#e1fffde0"
@@ -538,7 +538,7 @@
       "name": "Namespaces",
       "scope": "entity.name.namespace",
       "settings": {
-        "foreground": "#67c7c7"
+        "foreground": "#bdece9d0"
       }
     },
     {
@@ -701,7 +701,7 @@
       "name": "Support",
       "scope": "support.function",
       "settings": {
-        "foreground": "#285e5c"
+        "foreground": "#83FFDC"
       }
     },
     {
@@ -1790,7 +1790,7 @@
       "scope": "comment, punctuation.definition.comment",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#4e7e8380"
+        "foreground": "#cbf0e184"
       }
     },
     {
@@ -2106,6 +2106,7 @@
     "editorGroup.emptyBackground": "#040507",
     "panelSection.border": "#040507",
     "statusBarItem.activeBackground": "#FFFFFF25",
+    "settings.dropdownBackground": "#112928",
     "settings.headerForeground": "#bdece9",
     "settings.focusedRowBackground": "#ffffff07",
     "walkThrough.embeddedEditorBackground": "#00000050",
