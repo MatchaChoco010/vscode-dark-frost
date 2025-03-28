@@ -2,7 +2,7 @@
   "name": "dark-frost-theme",
   "displayName": "Dark Frost theme",
   "description": "dark, dark frosted world...",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.77.0"
   },
